@@ -24,8 +24,8 @@
           <a class="nav-link active" aria-current="page" href="/">Home</a>
         </li>
         <li class="nav-item">
-            <a class="nav-link" href="barzelletta">Barzella</a>
-          </li>
+          <a class="nav-link" href="barzelletta">Barzella</a>
+        </li>
         <li class="nav-item">
             <a class="nav-link" href="i-nostri-giochi">I Nostri Giochi</a>
           </li>
@@ -45,7 +45,14 @@
 <div class="container-fluid bg-black vh-100">
     <div class="row justify-content-center align-items-center">
         <div class="col-12">
-<h1 class="text-white text-center display-4">{{$title}}</h1>
+<h1 class="text-white text-center display-4">questa è la pagina1, <br>
+     un treno è andato sotto un treno, ha trovato dei binari <br>
+
+
+    Un cane vede un cane che sta scavando un fosso per metterci un osso:
+    Ca ne trovi già 3 dei miei. <br>
+
+{{$title}}</h1>
         </div>
     </div>
 </div>
